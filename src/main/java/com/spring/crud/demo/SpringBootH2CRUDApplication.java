@@ -24,6 +24,7 @@ import java.util.List;
 public class SpringBootH2CRUDApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hola");
 		SpringApplication.run(SpringBootH2CRUDApplication.class, args);
 	}
 

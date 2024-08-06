@@ -3,6 +3,8 @@
 *.war
 *.ear
 *.class
+*.classes
+*.test-classes
 *.xmd
 
 # eclipse specific git ignore

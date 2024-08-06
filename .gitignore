@@ -3,9 +3,12 @@
 *.war
 *.ear
 *.class
+*.xmd
+
 *.classes
 *.test-classes
-*.xmd
+
+/target/**
 
 # eclipse specific git ignore
 *.pydevproject
